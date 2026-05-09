@@ -1,4 +1,4 @@
 # Test 2
-Messured 1g of marble chips and placed them in 58g of 20% acetic acid. Thsi was then placed on a heated plate to speed up the reaction this heated place was at a unknown tempachturee.
+Measured 1 g of marble chips and placed them in 58 g of 20% acetic acid. This was then placed on a heated plate to speed up the reaction. This heated plate was at an unknown temperature.
 
-Time ta
+Total Time Contributed: 0.2 hours
