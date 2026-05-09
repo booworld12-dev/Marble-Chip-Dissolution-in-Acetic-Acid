@@ -8,4 +8,6 @@ The reaction: CaCO₃ (s) + 2CH₃COOH (aq) → Ca(CH₃COO)₂ (aq) + H₂O (l)
 # Total Time Spent (houres):
 Test 1:0.25
 
-Total:0.25
+Test 2:0.2
+
+Total:0.45
