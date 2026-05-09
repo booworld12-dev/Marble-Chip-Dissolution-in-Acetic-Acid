@@ -10,4 +10,6 @@ Test 1: 0.25
 
 Test 2: 0.2
 
-Total: 0.45
+Test 3 Planning: 0.23
+
+Total: 0.68
